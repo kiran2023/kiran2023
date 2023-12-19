@@ -1,12 +1,14 @@
 <h1 align="center">Hi👋, I'm Kiran N </h1>
 
-<h3 align="center">A Web Developer learning and exploring new things</h3>
+<h3 align="center">A Web Developer Learning and Exploring New Things</h3>
 
 ---
 
 # 💫 About Me:
 
 🤹 A passionate web developer from India<br><br>👉 I’m currently learning React<br><br>🔭 I’m currently working on the MERN web application<br><br>👨‍💻 All of my projects are available at <a style="color: blue; font-weight: bold" href="https://kiran2023.github.io/Portfolio" target="_blank">Portfolio</a> <br><br>📄 Know about my experiences <a style="color: blue; font-weight: bold" href="https://drive.google.com/file/d/1bmzv1BZNr5KHJWUeqWWg73aHnZwNP4j-/view?usp=sharing" target="_blank" download=""> Resume </a><br><br>📫 How to reach me <a style="color: blue; font-weight: bold" href="mailto:n.kiran9936@gmail.com" target="_blank">Get in touch</a> <br><br>
+
+---
   
 ## 🌐 Socials:  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/people/Kiran-Patil/100013552217592/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_real_fcg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-n-0a903b224) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/im__Kiran23) <br><br>

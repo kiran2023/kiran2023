@@ -25,9 +25,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kiran2023&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiran2023&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kiran2023&theme=radical&no-frame=false&no-bg=false&margin-w=4) <br><br>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light) <br>
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=kiran2023&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kiran2023)

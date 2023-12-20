@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-🤹 A passionate web developer from India<br><br>👉 I’m currently learning React<br><br>🔭 I’m currently working on the MERN web application<br><br>👨‍💻 All of my projects are available at <a style="color: blue; font-weight: bold" href="https://kiran2023.github.io/Portfolio" target="_blank">👉 Portfolio</a> <br><br>📄 Know about my experiences <a style="color: blue; font-weight: bold" href="https://drive.google.com/file/d/1bmzv1BZNr5KHJWUeqWWg73aHnZwNP4j-/view?usp=sharing" target="_blank" download="">👉 Resume </a><br><br>📫 How to reach me <a style="color: blue; font-weight: bold" href="mailto:n.kiran9936@gmail.com" target="_blank">👉 Get in touch</a> <br><br>
+🤹 A passionate web developer from India<br><br>👉 I’m currently learning React<br><br>🔭 I’m currently working on the MERN web application<br><br>👨‍💻 All of my projects are available at👉 <a style="color: blue; font-weight: bold" href="https://kiran2023.github.io/Portfolio" target="_blank">Portfolio</a> <br><br>📄 Know about my experiences👉 <a style="color: blue; font-weight: bold" href="https://drive.google.com/file/d/1bmzv1BZNr5KHJWUeqWWg73aHnZwNP4j-/view?usp=sharing" target="_blank" download="">Resume </a><br><br>📫 How to reach me👉 <a style="color: blue; font-weight: bold" href="mailto:n.kiran9936@gmail.com" target="_blank">Get in touch</a> <br><br>
 
 ---
   

@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Kiran N </h1>
 
-<h3 align="center">A Web Developer Learning and Exploring New Things</h3>
+<h3 align="center">A Web Developer Learning & Exploring New Things</h3>
 
 ---
 
